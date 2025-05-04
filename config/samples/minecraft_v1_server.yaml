@@ -1,0 +1,9 @@
+apiVersion: minecraft.mso.io/v1
+kind: Server
+metadata:
+  labels:
+    app.kubernetes.io/name: mso
+    app.kubernetes.io/managed-by: kustomize
+  name: server-sample
+spec:
+  # TODO(user): Add fields here

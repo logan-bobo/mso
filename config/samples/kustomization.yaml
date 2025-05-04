@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- minecraft_v1_server.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
